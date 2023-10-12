@@ -16,7 +16,7 @@
 ## Figures
 ## References
 ### Previous Work
-- MI-1: 
+- MI-1: https://docs.google.com/document/d/1OsSMSBwFDf6P__UTcfK3AbjcKovTtPvrOny9YICQMQQ/edit?usp=sharing
 - MI-2:
 
 ### Acknowledgements
