@@ -1,4 +1,4 @@
-# Group 1 - Project 2, Classifying Breast Cancer Tumor Ultrasound Images
+# Group 1 - Project 2, Classifying Breast Cancer Ultrasound Images
 
 ## Table of Contents
 - SRC:
