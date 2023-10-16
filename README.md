@@ -18,6 +18,8 @@
 
 ## Figures
 ## References
+[1] W. Al-Dhabyani, M. Gomaa, H. Khaled, and A. Fahmy, "Dataset of breast ultrasound images," Data in Brief, vol. 28, p. 104863, 2020. [Online]. Available: https://doi.org/10.1016/j.dib.2019.104863.
+
 ### Previous Work
 - MI-1: https://docs.google.com/document/d/1OsSMSBwFDf6P__UTcfK3AbjcKovTtPvrOny9YICQMQQ/edit?usp=sharing
 - MI-2: https://docs.google.com/document/d/1eoXdahQBwyJ3K_WUYtUmqAdbdpWteN16fUMx278WaoQ/edit?usp=sharing
