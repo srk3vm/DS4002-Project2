@@ -1,4 +1,4 @@
-# DS4002-Project2
+# Group 1 - Project 2, Classifying Breast Cancer Tumor Ultrasound Images
 
 ## Table of Contents
 - SRC:
@@ -11,12 +11,23 @@
 ## SRC
 ### Installing/ Building our code
 ### Notebook Files
+| Notebook Name | Decription |
+| -------- | -------- |
+| xxx | This notebook cleans the raw  dataset |
 ### Usage
 
 ## DATA
 ### Dataset Dictionary
+| Column Name | Definition | 
+| -------- | -------- |
+| Image | Breast Ultrasound Image file (json format)|
+| Classification | Type of tumor (benign, malignant, or normal)|
 
 ## Figures
+| Figure | Takeaways | 
+| -------- | -------- |
+| Fiugure 1 | placeholder |
+
 ## References
 [1] W. Al-Dhabyani, M. Gomaa, H. Khaled, and A. Fahmy, "Dataset of breast ultrasound images," Data in Brief, vol. 28, p. 104863, 2020. [Online]. Available: https://doi.org/10.1016/j.dib.2019.104863.
 
