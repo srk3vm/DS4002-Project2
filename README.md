@@ -13,7 +13,7 @@
 ### Notebook Files
 | Notebook Name | Decription |
 | -------- | -------- |
-| xxx | This notebook cleans the raw  dataset |
+| transfer_learning.ipynb | This notebook cleans the raw data and combines the images into a dataset that will be used for model training|
 ### Usage
 
 ## DATA
