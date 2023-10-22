@@ -1,0 +1,32 @@
+---
+title: "Project 2"
+author: "Sophie Kikuchi"
+date: "2023-10-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+```
+
+```{r}
+tumor <- read_csv("tumors.csv")
+```
+
+```{r}
+ggplot(tumor, aes(x = Type, y = Count)) +
+ geom_bar(stat = "identity", fill = "navy") +
+  labs(title = "Bar Plot of Type Counts",
+       x = "Type",
+       y = "Count") +
+  theme_minimal()
+```
+
+
+
