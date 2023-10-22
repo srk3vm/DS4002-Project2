@@ -14,6 +14,7 @@
 | Notebook Name | Decription |
 | -------- | -------- |
 | transfer_learning.ipynb | This notebook cleans the raw data and combines the images into a dataset that will be used for model training|
+| P2-Visualizations.rmd | This notebook cleans code for creating visualizations to view the general distribution of the data |
 ### Usage
 
 ## DATA
