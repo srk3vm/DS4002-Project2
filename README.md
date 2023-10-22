@@ -2,9 +2,9 @@
 
 ## Table of Contents
 - SRC:
-  - This folder contains all of the source code for our project. Currently, this folder is empty but it will contain all code used to clean and structure the final model
+  - This folder contains all of the source code for our project. This folder contains all code used to load and combine the image data as well as structure the final model for training.
 - DATA:
-  - This folder is where we store all datasets being used for this project. Specifically it contains both the raw datasets and cleaned versions that will be used in the final analysis.
+  - This folder is where we store all datasets being used for this project. Specifically it has three subfolders that contain all image data for the respective kind of tumor that the image displays (benign, malignant, or normal)
 - Figures:
   -  This folder contains exploratory plots looking into the distribution of data between the three types of tumors. As we move forward with our analysis, we will include figures as they relate to the final model.
 
