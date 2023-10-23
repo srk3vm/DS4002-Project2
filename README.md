@@ -34,6 +34,8 @@
 
 [2] G. Ayana, K. Dese, and S. Choe, "Transfer Learning in Breast Cancer Diagnoses via Ultrasound Imaging," Cancers, vol. 13, no. 4, p. 738, 2021. [Online]. Available: https://doi.org/10.3390/cancers13040738.
 
+[3] F. Chollet, "Data Preprocessing," TensorFlow, 2017. [Online]. Available: https://www.tensorflow.org/tutorials/images/transfer_learning#data_preprocessing. 
+
 ### Previous Work
 - MI-1: https://docs.google.com/document/d/1OsSMSBwFDf6P__UTcfK3AbjcKovTtPvrOny9YICQMQQ/edit?usp=sharing
 - MI-2: https://docs.google.com/document/d/1eoXdahQBwyJ3K_WUYtUmqAdbdpWteN16fUMx278WaoQ/edit?usp=sharing
