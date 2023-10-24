@@ -10,12 +10,18 @@
 
 ## SRC
 ### Installing/ Building our code
+- It is recommended to run the notebook files in an IDE that supports both Jupyter Notebooks and R markdown files such as Pycharm.
+- These files use the 'tidyverse' and 'dplyr' R libraries and the json, re, pickle, numpy, pandas and sklearn Python libraries
+- File paths may be incorrect on your machine, you are recommended to check all file paths before running.
+  
 ### Notebook Files
 | Notebook Name | Decription |
 | -------- | -------- |
 | transfer_learning.ipynb | This notebook contains all code used for the completion of the project. This includes data cleaning, creating the dataset, transfer learning with MobileNetV2, and fine tuning the model. |
 | P2-Visualizations.rmd | This notebook cleans code for creating visualizations to view the general distribution of the data |
+
 ### Usage
+- To use this model, first unpickle it. Then call the sklearn method predict(data) to get predictions.
 
 ## DATA
 ### Dataset Dictionary
